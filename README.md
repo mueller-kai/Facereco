@@ -1,7 +1,7 @@
 # FaceRecognitionRobot 
 This university project features face detection, face recognition and face analysis including emotion detection for a robot, but can also be used locally on a computer.
 
-The goal of this Project is to enable to Robot to recognize each individual of the Lab Staff at Reutlingen University.
+The goal of this Project is to enable the Robot to recognize each individual of the Lab Staff at Reutlingen University, greet people with names and analyze their emotions.
 
 It also features a Text-to-Speech output. Furthermore it features multiple face detection.
 
